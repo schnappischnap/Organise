@@ -1,0 +1,105 @@
+{
+  "Exclude": [
+    ".gitignore"
+  ],
+  "Directories": {
+    "_Images": [
+      ".ai",
+      ".bmp",
+      ".gif",
+      ".ico",
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".ps",
+      ".psd",
+      ".svg",
+      ".tif",
+      ".tiff"
+    ],
+    "_Videos": [
+      ".3g2",
+      ".3gp",
+      ".avi",
+      ".flv",
+      ".h264",
+      ".m4v",
+      ".mkv",
+      ".mov",
+      ".mp4",
+      ".mpg",
+      ".mpeg",
+      ".rm",
+      ".swf",
+      ".vob",
+      ".wmv"
+    ],
+    "_Audio": [
+      ".aif",
+      ".cda",
+      ".mid",
+      ".midi",
+      ".mp3",
+      ".mpa",
+      ".ogg",
+      ".wav",
+      ".wma",
+      ".wpl"
+    ],
+    "_Text": [
+      ".doc",
+      ".docx",
+      ".odt",
+      ".pdf",
+      ".rtf",
+      ".tex",
+      ".txt",
+      ".wks",
+      ".wps",
+      ".wpd"
+    ],
+    "_Executables": [
+      ".apk",
+      ".bat",
+      ".bin",
+      ".cgi",
+      ".cmd",
+      ".pl",
+      ".com",
+      ".exe",
+      ".gadget",
+      ".jar",
+      ".py",
+      ".wsf"
+    ],
+    "_Data": [
+      ".csv",
+      ".dat",
+      ".db",
+      ".dbf",
+      ".log",
+      ".mdb",
+      ".sav",
+      ".sql",
+      ".tar",
+      ".xml"
+    ],
+    "_Compressed": [
+      ".7z",
+      ".arj",
+      ".deb",
+      ".pkg",
+      ".rar",
+      ".rpm",
+      ".gz",
+      ".z",
+      ".zip"
+    ],
+    "_Fonts": [
+      ".fnt",
+      ".fon",
+      ".otf",
+      ".ttf"
+    ]
+  }
+}
