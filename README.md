@@ -3,7 +3,9 @@
 Python script to organise files in a directory based on extension.
 
 * Moves all files to sub-folders based on the files extension.
-* The extensions and sub-folder names are defined in `Organise.json`.
+* Moves files in the current working directory or the first command line argument.
+* Can specify certain files to be ignored, preventing them from being moved.
+* The extensions, sub-folder names, and exclusions are defined in `Organise.json`.
 
 `Organise.json` is used in this format:
 ```JSON
