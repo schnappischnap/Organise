@@ -51,4 +51,4 @@ if __name__ == '__main__':
     use_cwd = len(sys.argv) == 1 or not os.path.exists(sys.argv[1])
     directory = os.getcwd() if use_cwd else sys.argv[1]
 
-    move_files(directory, *get_data('Organise.json'))
+    move_files(directory, *get_data('organise.json'))
