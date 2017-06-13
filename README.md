@@ -1,4 +1,4 @@
-# Organise.py
+# organise.py
 
 Python script to organise files in a directory based on extension.
 
